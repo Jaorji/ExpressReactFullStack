@@ -19,5 +19,6 @@ On the payment section , it used `Stripe-api` as a payment third part api to fin
 ## After Login
 After login , user can add a survey and send to many email address. On the dashboard , user can see the dispalyed surveys which 
 they created and send out. 
+This section , it used `Redux Form` to creat and validate the survey.`SendGrid` is a very helpful tool to send out the survey as emails to users. And `Localtunnel`to transform the server data to the local server.
 
 
